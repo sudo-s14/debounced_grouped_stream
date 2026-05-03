@@ -3,8 +3,8 @@ description: >-
   A Dart stream wrapper that lets each subscriber independently debounce and
   group incoming events by key before delivery, with per-subscriber debounce
   duration and grouping configuration.
-version: 1.0.0
-repository: https://pub.dev/
+version: 1.0.1
+repository: https://github.com/sudo-s14/debounced_grouped_stream.git
 
 environment:
   sdk: ^3.10.0
